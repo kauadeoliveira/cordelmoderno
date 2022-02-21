@@ -46,7 +46,7 @@ main{
 }
 main p{
     padding: 0px 20px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 
 main section .imagem{
@@ -65,7 +65,7 @@ main section div > p{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.446);
     color: white;
-    margin: 25px 15px;
+    margin: 20px 15px;
     text-shadow: 1px 1px 0px black;
 }
 
