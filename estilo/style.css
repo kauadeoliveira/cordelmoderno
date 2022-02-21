@@ -45,7 +45,7 @@ main{
     font-size: 3.7vw;
 }
 main p{
-    padding: 40px 20px;
+    padding: 30px 20px;
 }
 
 main section .imagem{
@@ -64,7 +64,7 @@ main section div > p{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.446);
     color: white;
-    margin: 40px 15px;
+    margin: 30px 15px;
     text-shadow: 1px 1px 0px black;
 }
 
