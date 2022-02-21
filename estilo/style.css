@@ -19,6 +19,7 @@ header{
     color: white;
     background-color: black;
     text-align: center;
+    margin-bottom: 20px;
 }
 header h1{
     font-family: var(--fonte02);
@@ -54,9 +55,12 @@ main section .imagem{
 }
 main section #primeira{
     background: white url('../imagens/background001.jpg') right center fixed;
+    margin: 20px 0px;
+    
 }
 main section #segunda{
     background: white url('../imagens/background002.jpg') right center fixed;
+    margin: 20px 0px;
 }
 
 main section div > p{
